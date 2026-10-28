@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / local files
+*.tmp
+*.log
+
+# Sensitive data (review before committing)
+.env
+*.xlsx
+*.csv
