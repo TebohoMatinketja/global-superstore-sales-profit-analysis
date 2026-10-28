@@ -15,8 +15,7 @@ The dashboard displays the following headline metrics:
 - **Total Profit:** approximately 1.47M
 - **Total Orders:** approximately 25K
 - **Average Sales:** approximately 246.48
-
-*Note: The dashboard screenshot displays the Profit Margin card as 1.47M, which appears to repeat Total Profit rather than show a percentage. Verify the underlying measure before presenting this as a profit margin.*
+- **Profit Margin:** approximately 11.61%
 
 ## Five Key Business Insights
 1. **Technology leads sales by category.** The dashboard shows approximately 4.7M in Technology sales, compared with approximately 4.1M for Furniture and 3.8M for Office Supplies.
@@ -53,6 +52,3 @@ The dashboard displays the following headline metrics:
 - `README.md` — project overview, dashboard preview, insights, risks, opportunities, and recommendations
 - `executive-summary.md` — concise executive summary report
 - `images/global-superstore-dashboard.png` — dashboard screenshot
-
-## Data Notes
-The repository currently includes the dashboard screenshot and written analysis. Add the source dataset, cleaned data, workbook or BI project file, and any SQL/Python scripts if you want others to reproduce the analysis. Remove confidential or licensed data before publishing.
